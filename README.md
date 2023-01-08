@@ -21,5 +21,6 @@ qmake && make
 ```
 
 ## Addons
-* [Qt] (https://www.qt.io/) - Cross-Platform software for embedded & desktop
-* [Video] (https://youtu.be/B8lmjbBFSVU) - gameplay
+* [Qt](https://www.qt.io/) - Cross-Platform software for embedded & desktop
+* [Video](https://youtu.be/B8lmjbBFSVU) - gameplay
+* [Play online](https://przemekkkth.github.io/minesweeper/index.html) - game hosted on GitHub
